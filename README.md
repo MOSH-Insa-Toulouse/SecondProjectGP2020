@@ -11,4 +11,9 @@ Démo de mise en oeuvre de KiCad
 ## TODO:
 
 - [x] Créer un nouveau projet KiCad
-- [ ] Créer un montage simple à base de LED
+- [x] Créer un montage simple à base de LED
+- [ ] Créarion du PCB
+
+## Mon schema
+
+![schematique_carte_led.png](Images/schematique_carte_led.png)
