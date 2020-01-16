@@ -1,14 +1,14 @@
 # SecondProjectGP2020
 
-Démo de mise en oeuvre de KiCad
+DÃ©mo de mise en oeuvre de KiCad
 
 [Contact](mail@insa.fr)
 
 ## Hardware ESP32
 
-![ESP32 Arduino/Python Board](Images\ESP32.jpg)
+![ESP32 Arduino/Python Board](Images/ESP32.jpg)
 
 ## TODO:
 
-- [x] Créer un nouveau projet KiCad
-- [ ] Créer un montage simple à base de LED
+- [x] CrÃ©er un nouveau projet KiCad
+- [ ] CrÃ©er un montage simple Ã  base de LED
